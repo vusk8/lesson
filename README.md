@@ -13,7 +13,7 @@ Welcome to the repository for the "Lesson" static landing page. This project is 
 
 ## Demo
 
-You can view a live demo of the landing page [here](vusk8.github.io/lesson/).
+You can view a live demo of the landing page [here](https://vusk8.github.io/lesson/).
 
 ## Features
 
